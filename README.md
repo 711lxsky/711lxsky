@@ -1,8 +1,5 @@
 <!-- 总起 -->
-<div style="text-align: center;">
-    <h2 align="center">Hi 👨🏻‍💻, I'm <a href= "https://711lxsky.github.io/">711lxsky</a></h1>
-</div>
-
+<h1 align="center">Hi 👨🏻‍💻, I'm <a href= "https://711lxsky.github.io/">711lxsky</a>
 <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/C++.png" width="30" style="display: inline-block"/>
     <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/java.png" width="30" style="display: inline-block"/> 
@@ -12,6 +9,7 @@
     <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/HTML5.png" width="30" style="display: inline-block"/>
     <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/javascript.png" width="30" style="display: inline-block"/> 
 </div>
+</h1>
 
 <div style="text-align: start;">
     <h4> 🎓 &nbsp;Currently pursuing a Bachelor's degree in <a href = "https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6">Computer Science and Technology</a> at <a href="https://www.xidian.edu.cn/">Xidian University</a>.</h4>

@@ -1,6 +1,6 @@
 <!-- 总起 -->
 <div style="text-align: center;">
-    <h1>Hi 👨🏻‍💻, I'm <a href= "https://711lxsky.github.io/">711lxsky</a></h1>
+    <h2>Hi 👨🏻‍💻, I'm <a href= "https://711lxsky.github.io/">711lxsky</a></h1>
 </div>
 
 <div style="text-align: center;">
@@ -23,10 +23,14 @@
 </div>
 
 <br>
-<div style="text-align: center;">
-    <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=711lxsky&show_icons=true&theme=radical)</p>
+<div>
+<span style="margin-right: 50px">
+    <img src="https://github-readme-stats.vercel.app/api?username=711lxsky&show_icons=true&theme=tokyonight" alt="abhisheknaiidu" />
+</span>
+<span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=711lxsky&count_private=true&layout=compact&hide=html,css">
+</span>
 </div>
-
 
 <!--
 **711lxsky/711lxsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

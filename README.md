@@ -25,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=711lxsky&show_icons=true&theme=tokyonight" alt="abhisheknaiidu" />
 </span>
 <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=711lxsky&count_private=true&layout=compact&hide=html,css">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=711lxsky&count_private=true&layout=compact&hide=html,css,sass,vue">
 </span>
 </div>
 

@@ -14,7 +14,7 @@
 <div style="text-align: start;">
     <h4> 🎓 &nbsp;Currently pursuing a Bachelor's degree in <a href = "https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6">Computer Science and Technology</a> at <a href="https://www.xidian.edu.cn/">Xidian University</a>.</h4>
     <h4>🧐 &nbsp; Learning web development, focusing on Java and popular backend frameworks.</h4>
-    <h4>📜 &nbsp; Enjoy enjoying <a href="https://music.163.com/#/user/home?id=1508030433">music</a> and light novels in my leisure time.</h4>
+    <h4>📜 &nbsp; Enjoy cheerful <a href="https://music.163.com/#/user/home?id=1508030433">music</a> and light novels in my leisure time.</h4>
     <h4>&nbsp;📐 &nbsp;<a href="https://leetcode.cn/u/er-yi-ed/">Amateur algorithm enthusiast</a>, both novice and playful.</h4>
 
 </div>

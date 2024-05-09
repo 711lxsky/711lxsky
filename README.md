@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👨🏻‍💻, I'm <a href= "https://711lxsky.github.io/">711lxsky</a>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/C++.png" width="30" style="display: inline-block"/>
-    <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/java.png" width="30" style="display: inline-block"/> 
-    <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/golang.png" width="30" style="display: inline-block"/>
-    <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/c language.png" width="30" style="display: inline-block"/>
-    <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/Python.png" width="30" style="display: inline-block"/> 
-    <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/HTML5.png" width="30" style="display: inline-block"/>
-    <img src="https://raw.githubusercontent.com/711lxsky/filesOnGithub/master/javascript.png" width="30" style="display: inline-block"/> 
+    <img src="https://711lxsky.oss-cn-beijing.aliyuncs.com/icon/C%2B%2B.png" width="30" style="display: inline-block"/>
+    <img src="https://711lxsky.oss-cn-beijing.aliyuncs.com/icon/Java.png" width="30" style="display: inline-block"/> 
+    <img src="https://711lxsky.oss-cn-beijing.aliyuncs.com/icon/Golang.png" width="30" style="display: inline-block"/>
+    <img src="https://711lxsky.oss-cn-beijing.aliyuncs.com/icon/C%20language.png" width="30" style="display: inline-block"/>
+    <img src="https://711lxsky.oss-cn-beijing.aliyuncs.com/icon/Python.png" width="30" style="display: inline-block"/> 
+    <img src="https://711lxsky.oss-cn-beijing.aliyuncs.com/icon/HTML5.png" width="30" style="display: inline-block"/>
+    <img src="https://711lxsky.oss-cn-beijing.aliyuncs.com/icon/Javascript.png" width="30" style="display: inline-block"/> 
 </div>
 </h1>
 
